@@ -1,5 +1,5 @@
 <section class="py-20 bg-transparent" id="services-section">
-  <h2 class="text-2xl font-bold text-center mb-10 relative" style="color: #e9e5dc;">
+  <h2 class="text-2xl font-bold text-center mb-10 relative" style="color: #2D3732;">
     Meine Leistungen
     <span class="block h-1 w-16 mx-auto mt-2 rounded-full bg-gradient-to-r from-[#768680] via-[#a0ada7] to-[#e9e5dc] opacity-60"></span>
   </h2>

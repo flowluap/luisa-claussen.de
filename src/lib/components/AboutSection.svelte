@@ -5,7 +5,7 @@
       <svg class="w-5 h-5 mr-2 text-[#a0ada7]" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M13 16h-1v-4h-1m1-4h.01M12 20.5C6.753 20.5 2 15.747 2 10.5S6.753.5 12 .5s10 4.753 10 10-4.753 10-10 10z"/></svg>
       Über Luisa
     </span>
-    <h2 class="text-2xl font-bold mb-2 relative" style="color: #e9e5dc;">
+    <h2 class="text-2xl font-bold mb-2 relative" style="color: #2D3732;">
       Ihre Social Media Partnerin
       <span class="block h-1 w-16 mt-1 rounded-full bg-gradient-to-r from-[#768680] via-[#a0ada7] to-[#e9e5dc] opacity-60"></span>
     </h2>
@@ -23,7 +23,7 @@
   </div>
   <div class="flex-1 flex justify-center items-center">
     <div class="relative">
-      <img src="/src/lib/assets/DSC07347.JPG" alt="Luisa Claussen Portrait" class="w-64 h-64 md:w-80 md:h-80 rounded-2xl object-cover shadow-2xl ring-4 ring-[#e9e5dc]" />
+      <img src="/assets/DSC07347.JPG" alt="Luisa Claussen Portrait" class="w-64 h-64 md:w-80 md:h-80 rounded-2xl object-cover shadow-2xl ring-4 ring-[#e9e5dc]" />
       <span class="absolute -top-4 -right-4 bg-[#a0ada7] text-white px-3 py-1 rounded-full text-xs font-bold shadow-lg rotate-6">#SocialPassion</span>
     </div>
   </div>
